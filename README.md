@@ -5,7 +5,7 @@ Task 1
 Konseptuell modelering utifrån en kundbeskrivning för databasen för musikskolan.
 
 Task 2
-Konstuktion av den logiska modellen för databasen med fysiska attribut.  
+Konstuktion av den logiska modellen för databasen med fysiska attribut. Fokus på normaliersing och vidare extrahera data för konstuktion av själva databasen i SQL.
 
 Task 3
-Construerat queries och normaliserat databasen
+Konstruerat queries och vyer för ökad prestanda och användarvänlighet.
