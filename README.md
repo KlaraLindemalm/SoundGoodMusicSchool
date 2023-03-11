@@ -1,4 +1,5 @@
 # Databas prodjekt på KTH
+Prodjekt i kursen Datalagring, https://www.kth.se/student/kurser/kurs/IV1351. 
 Konstruerade en databas för en musikskola tillsammans med min kurskamrat Rasmuss Per Brodin
 
 Task 1
